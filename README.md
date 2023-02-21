@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 Under construction but...
 
-- 🔭 I’m currently working on GlobalSysInfo
-- 🌱 I’m currently learning Python and Django
+- 🔭 I’m currently working on Abi Global Health
+- 🌱 I’m currently learning Aws
